@@ -13,3 +13,6 @@ Além disso, a API tem um retorno que também é no formato JSON. O objeto retor
 {
     "podeComprar": false
 }
+
+
+https://invincible-porch-e5b.notion.site/Aula-12-Exerc-cio-p-Entregar-Pode-Comprar-dia-14-de-Julho-4a012a1134c34af6a341c4929ca3875c
