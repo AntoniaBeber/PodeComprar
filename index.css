@@ -1,0 +1,51 @@
+html{
+  background-color: beige;
+}
+
+h3{
+  max-width: 280px; 
+  margin: 0 auto; 
+  text-align: center;
+  overflow-wrap: break-word;
+}
+
+h1{
+  text-align: center;
+  color: #663300;
+
+}
+
+.pais{
+  display: flex;
+  justify-content: center;
+
+  
+}
+
+.anoNascimento{
+  display: flex;
+  justify-content: center;
+  border-radius: 17px;
+}
+
+.selectpais{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.selectAno{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 120px;
+ 
+}
+
+.botaoconsulta{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
